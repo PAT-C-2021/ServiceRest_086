@@ -1,0 +1,7 @@
+I:\Kuliah\Semester 5\Pengembangan Aplikasi Terdistribusi\12\ServiceRest_20190140086_Abdil Tegar Arifin\ServiceRest_20190140086_Abdil Tegar Arifin\obj\Debug\ServiceRest_20190140086_Abdil Tegar Arifin.csprojAssemblyReference.cache
+I:\Kuliah\Semester 5\Pengembangan Aplikasi Terdistribusi\12\ServiceRest_20190140086_Abdil Tegar Arifin\ServiceRest_20190140086_Abdil Tegar Arifin\obj\Debug\ServiceRest_20190140086_Abdil Tegar Arifin.csproj.CoreCompileInputs.cache
+I:\Kuliah\Semester 5\Pengembangan Aplikasi Terdistribusi\12\ServiceRest_20190140086_Abdil Tegar Arifin\ServiceRest_20190140086_Abdil Tegar Arifin\bin\Debug\ServiceRest_20190140086_Abdil Tegar Arifin.dll.config
+I:\Kuliah\Semester 5\Pengembangan Aplikasi Terdistribusi\12\ServiceRest_20190140086_Abdil Tegar Arifin\ServiceRest_20190140086_Abdil Tegar Arifin\bin\Debug\ServiceRest_20190140086_Abdil Tegar Arifin.dll
+I:\Kuliah\Semester 5\Pengembangan Aplikasi Terdistribusi\12\ServiceRest_20190140086_Abdil Tegar Arifin\ServiceRest_20190140086_Abdil Tegar Arifin\bin\Debug\ServiceRest_20190140086_Abdil Tegar Arifin.pdb
+I:\Kuliah\Semester 5\Pengembangan Aplikasi Terdistribusi\12\ServiceRest_20190140086_Abdil Tegar Arifin\ServiceRest_20190140086_Abdil Tegar Arifin\obj\Debug\ServiceRest_20190140086_Abdil Tegar Arifin.dll
+I:\Kuliah\Semester 5\Pengembangan Aplikasi Terdistribusi\12\ServiceRest_20190140086_Abdil Tegar Arifin\ServiceRest_20190140086_Abdil Tegar Arifin\obj\Debug\ServiceRest_20190140086_Abdil Tegar Arifin.pdb
